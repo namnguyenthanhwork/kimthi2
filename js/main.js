@@ -1,7 +1,7 @@
 const $ = document.querySelector.bind(document)
 const $$ = document.querySelectorAll.bind(document)
 
-const PLAYER_STORAGE_KEY = 'DANGKHOA'
+const PLAYER_STORAGE_KEY = 'ThanhNam'
 
 const player = $('.player')
 const songName = $('header h2')
