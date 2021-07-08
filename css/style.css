@@ -532,12 +532,12 @@ header p {
 
     position: absolute;
 
-    font-size: 20px;
+    font-size: 18px;
     color: var(--white-color);
     background-color: var(--black-color);
 
     height: 34px;
-    width: 33px;
+    width: 34px;
 
     transition: 0.4s;
     -webkit-transition: 0.4s;
