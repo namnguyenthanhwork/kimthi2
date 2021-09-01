@@ -95,12 +95,7 @@ const app = {
             singer: "Alec Benjamin",
             path: "./music/Let Me Down Slowly- Alec Benjamin.mp3",
             image: "./img/Capture10.jpg"
-        }, {
-            name: "Mood",
-            singer: "24kGoldn ft Iann Dior",
-            path: "./music/24kGoldn ft Iann Dior - Mood.mp3",
-            image: "./img/Capture1.jpg"
-        },
+        }, 
         {
             name: "Love Me Like That",
             singer: "Sam Kim",
