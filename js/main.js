@@ -49,9 +49,9 @@ const app = {
             image: "./img/Capture1.jpg"
         },
         {
-            name: "Wicked Wonderland",
-            singer: "Martin Tungevaag",
-            path: "./music/Wicked Wonderland - Martin Tungevaag.mp3",
+            name: "Bellyache",
+            singer: "Billie Eilish",
+            path: "./music/Bellyache - Billie Eilish.mp3",
             image: "./img/Capture2.jpg"
         },
         {
@@ -61,39 +61,39 @@ const app = {
             image: "./img/Capture3.png"
         },
         {
-            name: "What Lovers Do",
-            singer: "Maroon 5",
-            path: "./music/What Lovers Do - Maroon 5.mp3",
+            name: "Butterfly",
+            singer: "JUNA",
+            path: "./music/JUNA - Butterfly.mp3",
             image: "./img/Capture4.jpg"
         },
         {
-            name: "Try",
-            singer: "P!nk",
-            path: "./music/Try - P!nk.mp3",
+            name: "Lalala",
+            singer: "Naughty Boy ft Sam Smith",
+            path: "./music/Lalala  - Naughty Boy ft Sam Smith.mp3",
             image: "./img/Capture5.jpg"
         },
         {
-            name: "Runaway",
-            singer: "Aurora",
-            path: "./music/Runaway - Aurora.mp3",
+            name: "No.1",
+            singer: "",
+            path: "./music/No. 1.mp3",
             image: "./img/Capture6.jpg"
         },
         {
-            name: "I Want You To Know",
-            singer: "Zedd ft Selena Gomez",
-            path: "./music/I Want You To Know - Zedd ft Selena Gomez.mp3",
+            name: "Let Her Go",
+            singer: "Passenger",
+            path: "./music/Let Her Go  - Passenger.mp3",
             image: "./img/Capture7.png"
         },
         {
-            name: "Talking to the moon x Play Date",
-            singer: "Bruno Mars x Melanie Martinez",
-            path: "./music/Talking to the moon x Play Date.mp3",
+            name: "everything i wanted",
+            singer: "Billie Eilish",
+            path: "./music/everything i wanted - Billie Eilish.mp3",
             image: "./img/Capture8.jpg"
         },
         {
-            name: "Safari",
-            singer: "Serena",
-            path: "./music/Safari - Serena.mp3",
+            name: "Let Me Down Slowly",
+            singer: "Alec Benjamin",
+            path: "./music/Let Me Down Slowly- Alec Benjamin.mp3",
             image: "./img/Capture10.jpg"
         }, {
             name: "Mood",
@@ -102,9 +102,9 @@ const app = {
             image: "./img/Capture1.jpg"
         },
         {
-            name: "Positions",
-            singer: "Ariana Grande",
-            path: "./music/Ariana Grande - Positions.mp3",
+            name: "Love Me Like That",
+            singer: "Sam Kim",
+            path: "./music/Love Me Like That - Sam Kim.mp3",
             image: "./img/Capture2.jpg"
         },
         {
@@ -114,9 +114,9 @@ const app = {
             image: "./img/Capture3.png"
         },
         {
-            name: "Waiting For Love",
-            singer: "Avicii - Cover by Romy Wave",
-            path: "./music/Waiting For Love - Romy Wave.mp3",
+            name: "Radwinps",
+            singer: "",
+            path: "./music/Radwinps.mp3",
             image: "./img/Capture4.jpg"
         },
         {
@@ -126,21 +126,15 @@ const app = {
             image: "./img/Capture5.jpg"
         },
         {
-            name: "I Really Like You",
-            singer: "Carly Rae Jepsen - Cover by Celeina Ann",
-            path: "./music/Carly Rae Jepsen Cover by Celeina Ann Cover - I Really Like You.mp3",
-            image: "./img/Capture6.jpg"
-        },
-        {
-            name: "A Thousand Years",
-            singer: "Christina Perri",
-            path: "./music/Christina Perri - A Thousand Years.mp3",
+            name: "lovely",
+            singer: "Billie Eilish ft Khalid",
+            path: "./music/lovely - Billie Eilish ft Khalid.mp3",
             image: "./img/Capture7.png"
         },
         {
-            name: "Say So",
-            singer: "Doja Cat",
-            path: "./music/Doja Cat - Say So.mp3",
+            name: "Dancing With Your Ghost",
+            singer: "Sasha Sloan",
+            path: "./music/Dancing With Your Ghost  - Sasha Sloan.mp3",
             image: "./img/Capture8.jpg"
         },
         {
@@ -156,21 +150,21 @@ const app = {
             image: "./img/Capture10.jpg"
         },
         {
-            name: "Believer",
-            singer: "Imagine Dragons",
-            path: "./music/Imagine Dragons - Believer.mp3",
+            name: "when the partys over",
+            singer: "Billie Eilish",
+            path: "./music/when the partys over - Billie Eilish.mp3",
             image: "./img/Capture11.jpg"
         },
         {
-            name: "Savage Love",
-            singer: "Jason Derulo",
-            path: "./music/Jason Derulo - Savage Love.mp3",
+            name: "Rain",
+            singer: "",
+            path: "./music/Rain.mp3",
             image: "./img/Capture12.jpg"
         },
         {
-            name: "Everything sucks",
-            singer: "Vaultboy",
-            path: "./music/everything sucks - vaultboy.mp3",
+            name: "Whisper",
+            singer: "Park Ji Woo",
+            path: "./music/Whisper - Park Ji Woo.mp3",
             image: "./img/Capture13.jpg"
         },
         {
@@ -186,33 +180,33 @@ const app = {
             image: "./img/Capture15.jpg"
         },
         {
-            name: " At My Worst",
-            singer: "Pink Sweat",
-            path: "./music/Pink Sweat - At My Worst.mp3",
+            name: " Harehare ya",
+            singer: "Sou",
+            path: "./music/Harehare ya - Sou.mp3",
             image: "./img/Capture1.jpg"
         },
         {
-            name: "Mad at Disney",
-            singer: "Salem ilese",
-            path: "./music/Salem ilese - Mad at Disney.mp3",
+            name: "ĐỘ TỘC 2",
+            singer: "",
+            path: "./music/ĐỘ TỘC 2.mp3",
             image: "./img/Capture2.jpg"
         },
         {
-            name: "Pastlives",
-            singer: "Sapientdream",
-            path: "./music/Sapientdream - Pastlives.mp3",
+            name: "idontwannabeyouanymore",
+            singer: "Billie Eilish",
+            path: "./music/Idontwannabeyouanymore - Billie Eilish.mp3",
             image: "./img/Capture14.jpg"
         },
         {
-            name: "I love You",
-            singer: "Kevin Rater",
-            path: "./music/I love You - Kevin Rater.mp3",
+            name: "Yume to hazakura",
+            singer: "",
+            path: "./music/Yume to hazakura.mp3",
             image: "./img/Capture3.png"
         },
         {
-            name: "Until You",
-            singer: "Shayne Ward",
-            path: "./music/Shayne Ward  - Until You.mp3",
+            name: "Ocean Eyes",
+            singer: "Billie Eilish",
+            path: "./music/Ocean Eyes  - Billie Eilish.mp3",
             image: "./img/Capture4.jpg"
         },
         {
@@ -222,9 +216,9 @@ const app = {
             image: "./img/Capture5.jpg"
         },
         {
-            name: "I Love You 3000",
-            singer: "Stephanie Poetri",
-            path: "./music/Stephanie Poetri - I Love You 3000.mp3",
+            name: "Old Town Road",
+            singer: "Lil Nas X ft Billy Ray Cyrus",
+            path: "./music/Old Town Road - Lil Nas X ft Billy Ray Cyrus.mp3",
             image: "./img/Capture6.jpg"
         }
     ],
