@@ -22,6 +22,13 @@
     --box-shadow-playlist: rgba(160, 160, 175, 0.2);
 }
 
+@media (max-width:739px) {
+
+    [data-theme="dark"] {
+        --dashboard-color: #2d333b;
+    }
+}
+
 * {
     padding: 0;
     margin: 0;
